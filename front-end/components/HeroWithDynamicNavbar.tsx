@@ -41,25 +41,25 @@ const HeroWithDynamicNavbar: React.FC<HeroWithDynamicNavbarProps> = ({
         />
         <div className="flex flex-wrap gap-8 justify-center">
           <a
-            href="#afdelingen"
+            href="/afdelingen"
             className="text-black text-2xl md:text-3xl font-extrabold drop-shadow-lg bg-gray-200 bg-opacity-70 px-6 py-3 rounded-lg hover:bg-yellow-200 transition-all"
           >
             Afdelingen
           </a>
           <a
-            href="#leiding"
+            href="/leiding"
             className="text-black text-2xl md:text-3xl font-extrabold drop-shadow-lg bg-gray-200 bg-opacity-70 px-6 py-3 rounded-lg hover:bg-yellow-200 transition-all"
           >
             De leiding
           </a>
           <a
-            href="#documenten"
+            href="/documenten"
             className="text-black text-2xl md:text-3xl font-extrabold drop-shadow-lg bg-gray-200 bg-opacity-70 px-6 py-3 rounded-lg hover:bg-yellow-200 transition-all"
           >
             Belangrijke documenten
           </a>
           <a
-            href="#contact"
+            href="/contact"
             className="text-black text-2xl md:text-3xl font-extrabold drop-shadow-lg bg-gray-200 bg-opacity-70 px-6 py-3 rounded-lg hover:bg-yellow-200 transition-all"
           >
             Contact
