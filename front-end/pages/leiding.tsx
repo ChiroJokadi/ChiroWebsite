@@ -922,7 +922,7 @@ const Leiding: React.FC = () => {
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben 5de jaar leider (eerder: rakkers, kerels,
-                          speelclub, toppers)
+                          speelclub,toppers)
                         </div>
                         <div className="font-semibold text-lg">
                           Studies: Revalidatiewetenschappen & Kinesitherapie
