@@ -4,8 +4,8 @@ import Footer from "@components/Footer";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
-<div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-  <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+<div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
+  <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
     <img src="" alt="naam" className="w-full h-full object-cover" />
   </div>
 
@@ -46,8 +46,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-white text-black">
                 <h3 className="text-2xl font-bold mb-4">Kabouters</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/giel.jpg"
                         alt="naam"
@@ -87,8 +87,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/patat.jpg"
                         alt="naam"
@@ -127,8 +127,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/natan.jpg"
                         alt="naam"
@@ -168,8 +168,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Tiebe.jpg"
                         alt="naam"
@@ -180,35 +180,37 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Tiebe Penxten
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 3de jaar leider (eerder: Speelclub,
+                          Rakkers)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Geneeskunde
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Pizza
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Spel van Erik, Touchdown, Short
+                          Track
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Mission Impossible
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Mission Impossible
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is een kampplaats met vijver
                         </div>
                       </div>
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/lafosse.jpg"
                         alt="naam"
@@ -219,28 +221,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Jasper Lafosse
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben mijn eerste jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Burgerlijk Ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: pasta carbonara
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: het spel van Erik
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Breaking Bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: The Dictator
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is: geen herexamens hebben
                         </div>
                       </div>
                     </div>
@@ -252,8 +254,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-green-100 text-black">
                 <h3 className="text-2xl font-bold mb-4">Speelclub</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/yoshua.jpg"
                         alt="naam"
@@ -291,8 +293,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/conan.jpg"
                         alt="naam"
@@ -330,8 +332,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/lucas.jpg"
                         alt="naam"
@@ -369,8 +371,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/stan.jpg"
                         alt="naam"
@@ -408,8 +410,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/karel.jpg"
                         alt="naam"
@@ -453,8 +455,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-green-700 text-white">
                 <h3 className="text-2xl text-white font-bold mb-4">Rakkers</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/schoen.jpg"
                         alt="naam"
@@ -492,8 +494,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/simon.jpg"
                         alt="naam"
@@ -531,8 +533,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/vincent.jpg"
                         alt="naam"
@@ -570,8 +572,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/kobe.jpg"
                         alt="naam"
@@ -609,8 +611,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Iliaens.jpg"
                         alt="naam"
@@ -654,8 +656,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-red-500 text-white">
                 <h3 className="text-2xl text-white font-bold mb-4">Toppers</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/bappie.jpg"
                         alt="naam"
@@ -693,8 +695,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Driesen.jpg"
                         alt="naam"
@@ -732,8 +734,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/jim.jpg"
                         alt="naam"
@@ -771,8 +773,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/martijn.jpg"
                         alt="naam"
@@ -810,8 +812,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/bassie.jpg"
                         alt="naam"
@@ -855,8 +857,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-blue-900 text-white">
                 <h3 className="text-2xl text-white font-bold mb-4">Kerels</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Bidon.jpg"
                         alt="naam"
@@ -895,8 +897,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/robbe.jpg"
                         alt="naam"
@@ -939,8 +941,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/jules.jpg"
                         alt="naam"
@@ -978,8 +980,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Carlens.jpg"
                         alt="naam"
@@ -1017,8 +1019,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/gust.jpg"
                         alt="naam"
@@ -1062,8 +1064,8 @@ const Leiding: React.FC = () => {
               <section className="rounded-2xl shadow p-6 bg-pink-100 text-white">
                 <h3 className="text-2xl font-bold mb-4">Aspi's</h3>
                 <div className="flex flex-col">
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/vic.jpg"
                         alt="naam"
@@ -1101,8 +1103,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/lindekens.jpg"
                         alt="naam"
@@ -1141,8 +1143,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/Rob.jpg"
                         alt="naam"
@@ -1181,8 +1183,8 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="flex items-start gap-6 py-4 border-b last:border-b-0">
-                    <div className="w-40 h-40 md:w-48 md:h-48 flex-shrink-0 rounded overflow-hidden bg-gray-100">
+                  <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
+                    <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
                         src="/images/leiding/croes.jpg"
                         alt="naam"

@@ -54,16 +54,6 @@ const Footer: React.FC = () => {
             </a>
           </span>
         </div>
-        {/* Navigatie */}
-        <div className="flex-1 flex flex-col items-center justify-center md:w-1/3 h-full">
-          <ul className="list-disc list-inside space-y-1 text-base text-left mx-auto md:mx-0">
-            <li>Home</li>
-            <li>Afdelingen</li>
-            <li>De Leiding</li>
-            <li>Nuttige Documenten</li>
-            <li>Contact</li>
-          </ul>
-        </div>
       </div>
     </footer>
   );
