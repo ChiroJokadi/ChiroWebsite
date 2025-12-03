@@ -266,28 +266,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Yoshua Appeltans
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 7e jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Educatieve Master
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Dijon saté van Bidon
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: 123 boobytrap
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Alice in Borderland
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Oppenheimer
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Grote droom: De chiro met veel trots achterlaten aan
+                          de jong mannen
                         </div>
                       </div>
                     </div>
@@ -305,28 +306,30 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Conan Nuyts
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 4de jaar leider ( eerder: topper,
+                          speelclub, aspi’s )
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: interieurarchitectuur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: spaghetti
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Londen is burning
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete serie: breaking bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: the usual suspect
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is: mijn eigen architectuur bureau
+                          hebben
                         </div>
                       </div>
                     </div>
@@ -344,28 +347,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Lucas Vandercappellen
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben 3de jaar leider (eerder: kerels)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studie: Autotechnologie
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: balletjes in tomatensaus
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Londen is burning
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete serie: breaking bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: wolf of wall street
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom: heel veel chicke auto’s hebben
                         </div>
                       </div>
                     </div>
@@ -383,28 +386,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Stan Vanaken
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben mijn eerste jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Marketing en communicatie support
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Spaghetti
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Londen is burning
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete serie: breaking bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: The Dictator
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is: een luchtballonvaart doen
                         </div>
                       </div>
                     </div>
@@ -422,28 +425,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Karel Evers
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben mijn eerste jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Industrieel Ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Pad Thai
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: mietjesbal
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: The Blacklist
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: The Dictator
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is om nooit herexamens te hebben
                         </div>
                       </div>
                     </div>
@@ -467,28 +470,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Daan Schoenaers
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 5de jaar leider (eerder:
+                          rakkers,speelclub,toppers,aspi's)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Toegepaste Informatica
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Friet met stoofvlees
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Ultimate Frisbee
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete serie: breaking bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Shutter Island
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is veel geld verdienen.
                         </div>
                       </div>
                     </div>
@@ -506,28 +510,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Simon Thiry
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 3de jaar leider (eerder: toppers en
+                          kabouters)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: geneeskunde
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Pizza
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete Chirospel: Londen is burning
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Dexter
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: zillion
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is: een goede dokter te zijn
                         </div>
                       </div>
                     </div>
@@ -545,28 +550,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Vincent Loix
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 2de jaar leider (eerder Toppers)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Lievelingseten: Pizza
                         </div>
                         <div className="font-semibold text-lg">
                           Lievelingseten: Frikandellen op de Chiro
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: honkbal
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: La casa de papel
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: The Shawshank Redemption
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom: kampioen worden met FC Jokadi
                         </div>
                       </div>
                     </div>
@@ -584,28 +589,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Kobe Meuwis
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben in mijn tweede jaar leiding
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          studies: politieke wetenschappen
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: frieten met stoofvlees
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: (spin) Castle siege
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete serie: breaking bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Fast and Furious Tokyo Drift
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is geen herexamens.
                         </div>
                       </div>
                     </div>
@@ -623,28 +628,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Senne Iliaens
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben mijn eerste jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studie: Economie (middelbaar)
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Tagliata
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: honkbal
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Prison break
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete Film: Taken
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is om ooit een triatlon succesvol te
+                          voltooien.
                         </div>
                       </div>
                     </div>
@@ -668,28 +674,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Daan Baptist
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 5de jaar leider (eerder: speelclub,
+                          kerels, rakkers, speelclub)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Biologie
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: pasta carbonara
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Praagse lente
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: blue Mountain State
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: new kids nitro
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is dit jaar afstuderen.
                         </div>
                       </div>
                     </div>
@@ -707,28 +714,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Maxim Driesen
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 3de jaar leider (eerder: Rakkers en
+                          Kabouters)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Handelswetenschappen
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: taco's
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Castle ravenloft
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Blue mountain state
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Top gun
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is: Een wereldreis maken
                         </div>
                       </div>
                     </div>
@@ -746,28 +754,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Jim Motmans
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 2de jaar leider (eerder: Speelclub)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Sociaal werk
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: pizza bbq chicken
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: 2 is te weinig, 3 is te vee
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Loki
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Pirates of the Caribbean
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom: beroemde artiest worden
                         </div>
                       </div>
                     </div>
@@ -785,28 +793,28 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Martijn Bogaers
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 2 jaar leider(eerder: Toppers)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: industrieel ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: kebab
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: OG vlaggenroof
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: prison break
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Fight Club
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is geen herexamens
                         </div>
                       </div>
                     </div>
@@ -824,28 +832,29 @@ const Leiding: React.FC = () => {
                     <div className="flex-1">
                       <div className="flex flex-col items-start gap-2">
                         <div className="font-semibold text-lg">
-                          Naam: Gust Penders
+                          Naam: Arnout Bogaers
                         </div>
                         <div className="font-semibold text-lg">
                           Ik ben mijn eerste jaar leider
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Burgerlijk ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: biefstuk
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Castle Raven Loft
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Breaking Bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: Inglourious Basterds
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom: een openluchtfuif met meer dan 10
+                          000 mensen
                         </div>
                       </div>
                     </div>
