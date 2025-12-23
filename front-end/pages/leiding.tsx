@@ -1088,25 +1088,25 @@ const Leiding: React.FC = () => {
                           Naam: Vic Penders
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn eerste jaar leider
+                          Ik ben mijn 5e jaar leider (eerder: Kabouters, Rakkers, Aspi's, Speelclub)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: Chemie
+                          Studies: Industrieel ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Frieten van de frituur
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete chirospel: rugbyvoetbal
+                          Favoriete chirospel: Oude vlaggenroof
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete serie: breaking bad
+                          Favoriete serie: Breaking Bad
                         </div>
                         <div className="font-semibold text-lg">
-                          Favoriete film: All quiet on the western front
+                          Favoriete film: The Butterfly Effect
                         </div>
                         <div className="font-semibold text-lg">
-                          Mijn grote droom is veel op reis kunnen gaan.
+                          Mijn grote droom is dit jaar in vervulling gegaan (we hebben een nieuwe chirowebsite :) )
                         </div>
                       </div>
                     </div>
