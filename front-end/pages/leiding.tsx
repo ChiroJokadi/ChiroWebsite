@@ -416,7 +416,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/karel.jpg"
+                        src="/images/leiding/Karel.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -541,7 +541,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/vincent.jpg"
+                        src="/images/leiding/Vincent.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -823,7 +823,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/bassie.jpg"
+                        src="/images/leiding/Bassie.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -953,7 +953,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/jules.jpg"
+                        src="/images/leiding/Jules.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
