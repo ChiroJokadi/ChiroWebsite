@@ -1,11 +1,11 @@
 import "@styles/globals.css";
 import { appWithTranslation } from "next-i18next";
 import type { AppProps } from "next/app";
-import { Helmet } from "react-helmet-async";
+import { Helmet, HelmetProvider } from "react-helmet-async";
 
 const App = ({ Component, pageProps }: AppProps) => {
   return (
-    <>
+    <HelmetProvider>
       <Helmet>
         <title>Chiro Jokadi</title>
         <meta name="description" content="Hallo hallo... Chiro!" />
@@ -21,7 +21,7 @@ const App = ({ Component, pageProps }: AppProps) => {
         <meta property="og:url" content="https://chirojokadi.be" />
       </Helmet>
       <Component {...pageProps} />
-    </>
+    </HelmetProvider>
   );
 };
 
