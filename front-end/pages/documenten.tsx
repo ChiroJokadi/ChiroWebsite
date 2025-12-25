@@ -31,11 +31,11 @@ const Documenten: React.FC = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
           <div>
-            <div className="rounded-2xl shadow overflow-hidden bg-white">
+            <div className="rounded-2xl shadow bg-white">
               <img
                 src="/images/prikbord.jpeg"
                 alt="Prikbord brief"
-                className="w-full h-[420px] object-cover"
+                className="w-full h-auto object-contain"
               />
             </div>
             <p className="text-sm text-gray-600 mt-2">prikbordbrief</p>
