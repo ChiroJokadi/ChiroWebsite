@@ -34,7 +34,7 @@ const Documenten: React.FC = () => {
             <div className="rounded-2xl shadow bg-white">
               <img
                 src="/images/prikbord.jpeg"
-                alt="Prikbord brief"
+                alt="Prikbord"
                 className="w-full h-auto object-contain"
               />
             </div>
