@@ -109,7 +109,7 @@ const Home: React.FC = () => {
         <div className="mt-12 flex flex-col md:flex-row items-stretch justify-center gap-8 w-full min-h-[340px]">
           <div className="md:basis-1/3 w-full flex flex-col items-stretch justify-center min-h-[340px] h-full">
             <img
-              src="/images/lokaal.jpg"
+              src="/images/OLF.jpg"
               alt="Chiro Jokadi activiteit"
               className="rounded-xl object-cover w-full h-full bg-transparent"
               style={{

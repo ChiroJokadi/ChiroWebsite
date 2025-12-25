@@ -49,7 +49,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/kampfoto.jpg"
+                  src="/images/afdelingen/kabouters.jpg"
                   alt="Kabouters"
                   className="w-full h-full object-cover rounded-2xl"
                 />
@@ -76,7 +76,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/home-image1.jpg"
+                  src="/images/afdelingen/speelclub.jpg"
                   alt="Speelclub"
                   className="w-full h-full object-cover rounded-2xl"
                 />
@@ -103,7 +103,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/kamp2025.jpg"
+                  src="/images/afdelingen/rakkers.jpg"
                   alt="Rakkers"
                   className="w-full h-full object-cover rounded-2xl"
                 />
@@ -131,7 +131,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/home-image1.jpg"
+                  src="/images/afdelingen/toppers.jpg"
                   alt="Toppers"
                   className="w-full h-full object-cover rounded-2xl"
                 />
@@ -158,7 +158,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/lokaal.jpg"
+                  src="/images/afdelingen/kerels.jpg"
                   alt="Kerels"
                   className="w-full h-full object-cover rounded-2xl"
                 />
@@ -186,7 +186,7 @@ const Afdeling: React.FC = () => {
               </div>
               <div className="w-40 h-40 md:w-48 md:h-48 rounded-2xl overflow-hidden flex-shrink-0">
                 <img
-                  src="/images/chiro-jokadi.png"
+                  src="/images/afdelingen/aspis.jpg"
                   alt="Aspi's"
                   className="w-full h-full object-cover rounded-2xl"
                 />
