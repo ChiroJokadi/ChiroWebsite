@@ -104,7 +104,7 @@ const Header: React.FC<HeaderProps> = ({
             <Link href="/">
               <img
                 src="/images/chiro-jokadi.png"
-                alt="Chiro Jokadi Logo"
+                alt="Chiro Jokadi logo"
                 className={logoSizeClass + " w-auto transition-all duration-500 " + logoFilter}
                 style={{ maxHeight: logoMaxHeight }}
               />
