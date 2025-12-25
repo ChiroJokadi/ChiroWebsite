@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
                 href="tel:+32476776761"
                 className="text-blue-600 hover:underline"
               >
-                +32 123 45 6789
+                +32 476 77 67 61
               </a>
             </div>
 
