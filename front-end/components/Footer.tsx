@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
               </span>
             </div>
           </div>
-          <span className="text-sm">Koutermanstraat 1 3570 Alken</span>
+          <span className="text-sm">Rijdreef 28 3570 Alken</span>
           <span className="text-sm mt-1">
             Vind ons ook op
             <a
