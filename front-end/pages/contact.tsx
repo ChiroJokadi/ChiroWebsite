@@ -95,7 +95,7 @@ const Contact: React.FC = () => {
                 >
                   <img
                     src="/images/Facebook_Logo.png"
-                    alt="Facebook"
+                    alt="facebook"
                     className="h-8 w-8 object-contain"
                   />
                   <span className="font-medium">Chiro Jokadi</span>
