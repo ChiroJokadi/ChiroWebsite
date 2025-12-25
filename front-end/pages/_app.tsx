@@ -7,7 +7,7 @@ const App = ({ Component, pageProps }: AppProps) => {
   return (
     <HelmetProvider>
       <Helmet>
-        <title>Chiro Jokadi</title>
+        <title>Chiro Jokadi Alken</title>
         <meta name="description" content="Hallo hallo... Chiro!" />
 
         {/* Open Graph */}
