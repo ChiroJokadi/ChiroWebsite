@@ -580,7 +580,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/kobe.jpg"
+                        src="/images/leiding/Kobe.JPG"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -745,7 +745,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/jim.jpg"
+                        src="/images/leiding/Jim.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -784,7 +784,7 @@ const Leiding: React.FC = () => {
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/martijn.jpg"
+                        src="/images/leiding/Martijn.JPG"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
@@ -1070,13 +1070,13 @@ const Leiding: React.FC = () => {
               </section>
 
               {/* Aspi's */}
-              <section className="rounded-2xl shadow p-6 bg-pink-100 text-white">
+              <section className="rounded-2xl shadow p-6 bg-pink-100 text-black">
                 <h3 className="text-2xl font-bold mb-4">Aspi's</h3>
                 <div className="flex flex-col">
                   <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
-                        src="/images/leiding/vic.jpg"
+                        src="/images/leiding/Vic.jpg"
                         alt="naam"
                         className="w-full h-full object-cover"
                       />
