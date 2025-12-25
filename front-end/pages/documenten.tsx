@@ -33,7 +33,7 @@ const Documenten: React.FC = () => {
           <div>
             <div className="rounded-2xl shadow overflow-hidden bg-white">
               <img
-                src="/images/lokaal.jpg"
+                src="/images/prikbord.jpeg"
                 alt="Prikbord brief"
                 className="w-full h-[420px] object-cover"
               />
