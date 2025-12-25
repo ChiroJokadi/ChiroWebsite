@@ -31,7 +31,7 @@ const Footer: React.FC = () => {
               className="inline-block align-middle ml-1"
             >
               <Image
-                src="/images/Facebook_logo.png"
+                src="/images/Facebook_Logo.png"
                 alt="Facebook"
                 width={24}
                 height={24}
@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
               className="inline-block align-middle ml-1"
             >
               <Image
-                src="/images/instagram_logo.png"
+                src="/images/Instagram_logo.png"
                 alt="Instagram"
                 width={24}
                 height={24}
