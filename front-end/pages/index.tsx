@@ -16,7 +16,7 @@ const Home: React.FC = () => {
     <>
       <Head>
         <title>chiro jokadi</title>
-        <meta name="description" content="Exam app" />
+        <meta name="description" content="Hallo hallo... Chiro!" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
