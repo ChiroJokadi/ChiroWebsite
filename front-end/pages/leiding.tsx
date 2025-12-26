@@ -556,10 +556,10 @@ const Leiding: React.FC = () => {
                           Ik ben mijn 2de jaar leider (eerder Toppers)
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Pizza
+                          Studies: industrieel ingenieur
                         </div>
                         <div className="font-semibold text-lg">
-                          Lievelingseten: Frikandellen op de Chiro
+                          Lievelingseten: Pizza
                         </div>
                         <div className="font-semibold text-lg">
                           Favoriete chirospel: honkbal
