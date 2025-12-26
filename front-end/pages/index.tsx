@@ -34,7 +34,7 @@ const Home: React.FC = () => {
               Chiro Jokadi is een van de vele jeugdbewegingen in Alken. Maar
               maakt dit ons daarom minder speciaal? Het antwoord is natuurlijk
               nee! Bij ons is er vertier voor zowel jong als oud. Of je nu
-              kabouter of aspi bent, Chiro Jokadi is "the place to be" als het
+              Kabouter of Aspi bent, Chiro Jokadi is "the place to be" als het
               om jeugd in Alken gaat.
             </p>
           </div>
