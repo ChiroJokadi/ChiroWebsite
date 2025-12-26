@@ -132,7 +132,7 @@ const Home: React.FC = () => {
             </p>
             <br></br>
             <p className="text-lg md:text-xl text-black text-left">
-              Openluchtfuif alken: voor meer informatie kan je terecht op{" "}
+              Openluchtfuif Alken: voor meer informatie kan je terecht op{" "}
               <a
                 href="https://www.openluchtfuif.com/"
                 target="_blank"
