@@ -418,7 +418,7 @@ const Leiding: React.FC = () => {
                       <img
                         src="/images/leiding/Karel.jpg"
                         alt="naam"
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-cover object-top"
                       />
                     </div>
 
