@@ -1,3 +1,0 @@
-﻿# ChiroJokadi
-
-chiro website
