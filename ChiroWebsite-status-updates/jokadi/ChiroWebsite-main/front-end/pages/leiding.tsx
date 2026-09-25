@@ -28,7 +28,7 @@ const Leiding: React.FC = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
-      <Header alwaysOpaque />
+      <Header alwaysOpaque={true} />
 
       <main className="mx-auto w-full max-w-6xl px-4 md:px-8 pt-28 pb-12">
         <div className="flex flex-col items-start gap-8 w-full">
