@@ -4,19 +4,6 @@ import Footer from "@components/Footer";
 import { useTranslation } from "next-i18next";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 
-<div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
-  <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
-    <img src="" alt="naam" className="w-full h-full object-cover" />
-  </div>
-
-  <div className="flex-1">
-    <div className="flex items-center justify-between">
-      <div className="font-semibold text-lg">naam</div>
-      <div className="text-sm italic text-gray-600">text</div>
-    </div>
-  </div>
-</div>;
-
 const Leiding: React.FC = () => {
   const { t } = useTranslation();
 
@@ -28,7 +15,7 @@ const Leiding: React.FC = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
-      <Header alwaysOpaque={true} />
+      <Header alwaysOpaque />
 
       <main className="mx-auto w-full max-w-6xl px-4 md:px-8 pt-28 pb-12">
         <div className="flex flex-col items-start gap-8 w-full">
@@ -163,7 +150,6 @@ const Leiding: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                </div>
               </section>
 
               {/* Speelclub */}
@@ -209,7 +195,6 @@ const Leiding: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                </div>
 <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
@@ -248,7 +233,6 @@ const Leiding: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                </div>
 <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
@@ -491,7 +475,6 @@ const Leiding: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                </div>
 <div className="flex flex-col md:flex-row items-start gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
@@ -530,7 +513,6 @@ const Leiding: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                </div>
                 </div>
               </section>
 
@@ -615,7 +597,6 @@ const Leiding: React.FC = () => {
                       </div>
                     </div>
                   </div>
-                </div>
 <div className="flex flex-col md:flex-row items-start gap-4 md:gap-6 py-4 border-b last:border-b-0">
                     <div className="w-40 h-40 md:w-40 md:h-40 flex-shrink-0 rounded overflow-hidden bg-gray-100 mx-auto md:mx-0">
                       <img
