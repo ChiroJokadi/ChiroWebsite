@@ -54,14 +54,14 @@ const Contact: React.FC = () => {
             <div className="rounded-2xl shadow p-6 bg-white">
               <h3 className="text-xl font-bold mb-2">Hoofdleider — Contact</h3>
               <div className="text-sm text-gray-500">Naam</div>
-              <div className="font-semibold mb-3">Robbe Schiffeleers</div>
+              <div className="font-semibold mb-3">Maxime Croes</div>
 
               <div className="text-sm text-gray-500">Telefoon</div>
               <a
-                href="tel:+32476776761"
+                href="tel:+32493123178"
                 className="text-blue-600 hover:underline"
               >
-                +32 476 77 67 61
+                +32 493 12 31 78
               </a>
             </div>
 
