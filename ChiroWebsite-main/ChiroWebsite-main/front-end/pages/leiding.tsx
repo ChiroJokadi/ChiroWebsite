@@ -174,7 +174,7 @@ const Leiding: React.FC = () => {
                           Ik ben mijn 4de jaar leider (eerder: rakkers, kerels, Aspi’s)
                         </div>
                         <div className="font-semibold text-lg">
-                          Studies: industrieel ingenieur bouwkunde
+                          Studies: industrieel ingenieur
                         </div>
                         <div className="font-semibold text-lg">
                           Lievelingseten: sushi
@@ -695,7 +695,7 @@ const Leiding: React.FC = () => {
                           Naam: Maxim Driesen
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn 4de jaar leider (eerder: Rakkers en Kabouters, Toppers)
+                          Ik ben mijn 4de jaar leider (eerder: Rakkers, Kabouters en Toppers)
                         </div>
                         <div className="font-semibold text-lg">
                           Studies: Handelswetenschappen
