@@ -657,7 +657,7 @@ const Leiding: React.FC = () => {
                           Naam: Kobe Meuwis
                         </div>
                         <div className="font-semibold text-lg">
-                          Ik ben mijn 3de jaar leider (eerder: Rakkers)
+                          Ik ben mijn 3de jaar leider (eerder: Speelclub en Rakkers)
                         </div>
                         <div className="font-semibold text-lg">
                           studies: politieke wetenschappen
